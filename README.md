@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @migbrit
-- 👀 I’m interested in Python, C# and JavaScript
-- 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou o Miguel Brito
+- 👀 Tenho muito interesse na linguagem de programação C#
+- 🌱 Atualmente estou aprendendo C#, JavaScript, HTML, CSS, e etc
+- 📫 Email: miguelfelipe_steam@outlook.com
 
 <!---
 migbrit/migbrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
