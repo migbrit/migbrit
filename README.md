@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=migbrit&label=Profile%20views&color=0e75b6&style=flat" alt="migbrit" /> </p>
 
-- 🌱 Atualmente estou aprendendo **ASP.NET**
+- 🌱 Atualmente estou aprendendo **C# e ASP.NET**
 
 - 👀 Pretendo me tornar um desenvolvedor Full Stack
 
