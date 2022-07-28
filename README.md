@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o Miguel Brito
-- 👀 Tenho muito interesse na linguagem de programação C#
+- 👀 Pretendo me tornar um desenvolvedor Full Stack
 - 🌱 Atualmente estou aprendendo C#, ASP.NET MVC, JavaScript, HTML e CSS
 - 📫 Email: miguelfelipe_steam@outlook.com
 
