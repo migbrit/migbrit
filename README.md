@@ -2,8 +2,6 @@
 <h3 align="center">Estudante de programação e apaixonado por tecnologia!</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/756/75682.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=migbrit&label=Profile%20views&color=0e75b6&style=flat" alt="migbrit" /> </p>
-
 - 🌱 Atualmente estou aprendendo **C# e ASP.NET**
 
 - 👀 Pretendo me tornar um desenvolvedor Full Stack
