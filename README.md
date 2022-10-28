@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, my name is Miguel</h1>
 <h3 align="center">Back-End Developer and in love with technology!</h3>
 
-- 🌱 I'm currently studying Blazor and NopCommerce platform
+- 📚 I'm currently studying Blazor and NopCommerce platform
 
-- 👀 I want to be a Full-Stack Developer
+- 👨🏽‍💻 I want to be a Full-Stack Developer
 
 - 📫 Email: **miguelfelipe_steam@outlook.com**
 
