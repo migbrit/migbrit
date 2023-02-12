@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Miguel</h1>
-<h3 align="center">Back-End Developer and in love with technology!</h3>
+<h3 align="center">Software Developer and in love with technology!</h3>
 
-- 📚 I'm currently studying .NET and TypeScript
+- 📚 I'm currently studying React and TypeScript
 
 - 👨🏽‍💻 I want to be a Full-Stack Developer
 
