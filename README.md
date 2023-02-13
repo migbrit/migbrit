@@ -13,8 +13,7 @@
 </div>
 
 <h3 align="left">Languages and technologies :</h3>
-<div style="display: inline_block"><br>
-  <img height="60" width="70" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg](https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/index.min.js)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />        
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
