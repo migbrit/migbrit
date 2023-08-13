@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, my name is Miguel</h1>
 <h3 align="center">Software Developer and in love with technology!</h3>
 
-- 📚 I'm currently studying React and TypeScript
+- 📚 I'm currently studying Node.js and TypeScript
 
-- 👨🏽‍💻 I want to be a Full-Stack Developer
+- 👨🏽‍💻 I want to be a developer prepared for any software development situation that is assigned to me, always following the principles of clean code and SOLID
 
 - 📫 Email: **miguelfelipe_steam@outlook.com**
 
