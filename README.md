@@ -3,7 +3,7 @@
 
 - 📚 I'm currently studying Node.js and TypeScript
 
-- 👨🏽‍💻 I want to be a developer prepared for any software development situation that is assigned to me, always following the principles of clean code and SOLID
+- 👨🏽‍💻 I want to be a developer prepared for any software development situation that is assigned to me, always following the principles of Clean Code and SOLID
 
 - 📫 Email: **miguelfelipe_steam@outlook.com**
 
