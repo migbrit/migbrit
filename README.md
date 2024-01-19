@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Miguel</h1>
 <h3 align="center">Software Developer and in love with technology!</h3>
 
-- 📚 I'm currently studying Golang, Docker and Kubernetes
+- 📚 I'm currently studying Golang, Docker, Kubernetes and Message Queue tools like Apache Kafka and RabbitMQ.
 
 - 👨🏽‍💻 I want to be a developer prepared for any software development situation that is assigned to me, always following the principles of Clean Code and SOLID
 
