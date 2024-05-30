@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, my name is Miguel</h1>
-<h3 align="center">Software Developer and in love with technology!</h3>
+<h3 align="center">Software Engineer and in love with technology!</h3>
 
 - 📚 I'm currently studying Kubernetes and Message Queue tools like Apache Kafka and RabbitMQ.
 
