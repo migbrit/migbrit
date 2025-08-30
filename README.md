@@ -21,6 +21,9 @@
 <h3 align="left">Social media:</h3>
 <div> 
   <a href="https://www.linkedin.com/in/mrbrito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://leetcode.com/u/brito21/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
 </div>
 
 
