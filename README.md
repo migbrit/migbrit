@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Miguel</h1>
-<h3 align="center">Full Stack Developer | C# .NET & React | Passionate about clean code and scalable software</h3>
+<h3 align="center">Full Stack Developer | C# .NET | Passionate about clean code and scalable software</h3>
 
 - 📚 Currently studying **RabbitMQ**, **React**, and advanced **.NET** concepts.
 - 👨🏽‍💻 I build robust backend APIs and modern frontends, always following **SOLID principles** and **Clean Code**.
@@ -10,7 +10,6 @@
 <div>
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
