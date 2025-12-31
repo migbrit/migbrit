@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Miguel</h1>
 <h3 align="center">Full Stack Developer | C# .NET | Passionate about clean code and scalable software</h3>
 
-- 📚 Currently studying **RabbitMQ**, **React**, and advanced **.NET** concepts.
+- 📚 Currently studying **RabbitMQ** and advanced **.NET** concepts.
 - 👨🏽‍💻 I build robust backend APIs and modern frontends, always following **SOLID principles** and **Clean Code**.
 - 🌱 Continuously exploring new technologies and improving my skills.
 - 📫 Email: **miguelfrbrito@gmail.com**
