@@ -1,9 +1,10 @@
 <h1 align="center">Hello 👋, I'm Miguel</h1>
-<h3 align="center">Full Stack Developer | C# .NET | Passionate about clean code and scalable software</h3>
+<h3 align="center">Software Engineer | .NET Backend Specialist | Scalable Systems</h3>
 
-- 📚 Currently studying **RabbitMQ** and advanced **.NET** concepts.
-- 👨🏽‍💻 I build robust backend APIs and modern frontends, always following **SOLID principles** and **Clean Code**.
-- 🌱 Continuously exploring new technologies and improving my skills.
+- 🚀 Software Engineer specialized in building scalable and maintainable backend systems with .NET.
+- 🏗 Strong experience designing RESTful APIs with clean architecture and domain-driven principles.
+- 🔐 Skilled in authentication, authorization, and multi-tenant system design.
+- ⚡ Emphasis on performance, concurrency, and system reliability.
 - 📫 Email: **miguelfrbrito@gmail.com**
 
 <h3 align="left">Languages & Technologies:</h3>
@@ -11,8 +12,7 @@
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
+  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />       
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
 </div>
 
@@ -21,7 +21,4 @@
   <a href="https://www.linkedin.com/in/mrbrito/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="https://leetcode.com/u/brito21/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
 </div>
