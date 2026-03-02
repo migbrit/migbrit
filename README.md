@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Miguel</h1>
-<h3 align="center">Software Engineer | .NET Backend Specialist | Scalable Systems</h3>
+<h3 align="center">Software Engineer | .NET Backend Engineer | Scalable Systems</h3>
 
-- 🚀 Software Engineer specialized in building scalable and maintainable backend systems with .NET.
-- 🏗 Strong experience designing RESTful APIs with clean architecture and domain-driven principles.
+- 🚀 Software Engineer focused on building scalable and maintainable backend systems using .NET.
+- 🏗 Experience designing RESTful APIs following Clean Architecture and domain-driven design principles.
 - 🔐 Skilled in authentication, authorization, and multi-tenant system design.
 - ⚡ Emphasis on performance, concurrency, and system reliability.
 - 📫 Email: **miguelfrbrito@gmail.com**
