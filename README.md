@@ -24,11 +24,11 @@
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <p align="center">
-  <img height="50" src="https://unpkg.com/devicon/icons/csharp/csharp-original.svg" />
-  <img height="50" src="https://unpkg.com/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="50" src="https://unpkg.com/devicon/icons/typescript/typescript-original.svg" />
-  <img height="50" src="https://unpkg.com/devicon/icons/javascript/javascript-original.svg" />       
-  <img height="50" src="https://unpkg.com/devicon/icons/git/git-original.svg" />   
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
 ---
